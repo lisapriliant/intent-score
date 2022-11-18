@@ -26,8 +26,8 @@ public class MatchActivity extends AppCompatActivity {
         tvRound = findViewById(R.id.rounde);
         tvTeam1 = findViewById(R.id.name1);
         tvTeam2 = findViewById(R.id.name2);
-        score1 = findViewById(R.id.skorteam1);
-        score2 = findViewById(R.id.skorteam2);
+        tvScore1 = findViewById(R.id.skorteam1);
+        tvScore2 = findViewById(R.id.skorteam2);
         ivTeam1 = findViewById(R.id.team1_logo);
         ivTeam2 = findViewById(R.id.team2_logo);
         btnResult = findViewById(R.id.btn_result);
